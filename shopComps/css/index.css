@@ -1,0 +1,147 @@
+*{
+	margin:0px;
+	padding:0px ;
+}
+#app{
+	width: 1200px;
+	padding:20px 0px;
+	margin: 0 auto;
+	
+}
+
+#app .biaoti{
+	width: 1200px;
+	margin: 0 auto;
+	background: #f3f3f3;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+#app .biaoti ul li{
+	float: left;
+	height: 80px;
+	list-style: none;
+	margin-left: 20px;
+	
+}
+#app .biaoti ul li:nth-child(2){
+	margin-left: 84px;
+}
+#app .biaoti ul li:nth-child(3){
+	margin-left: 530px;
+}
+#app .biaoti ul li:nth-child(4){
+	margin-left: 103px;
+}
+#app .biaoti ul li:nth-child(5){
+	margin-left: 104px;
+}
+#app .biaotiul li:nth-child(6){
+	margin-left: 90px;
+}
+#app .biaoti ul li:last-child{
+	margin-left: 82px;
+}
+
+#app .liebiao{
+	width: 1200px;
+	margin: 0 auto;
+	/*background: red;*/
+	padding: 0px 0px;
+	
+	
+}
+#app .liebiao ul{
+	padding: 20px 0px;
+	height: 100px;
+	/*background: deepskyblue;*/
+}
+#app .liebiao ul li{
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	font-size: 12px;
+	
+}
+#app .liebiao ul li:first-child{
+	margin-left: 0px;
+}
+#app .liebiao ul li:nth-child(2){
+	margin-left: 0px;
+	
+}
+#app .liebiao ul li:nth-child(3){
+	width: 338px;
+	white-space: pre-wrap;  
+	
+}
+#app .liebiao ul li:nth-child(4){
+	margin-left: 191px;
+	/*background: red;*/
+	width: 100px;
+
+	text-align: center;
+}
+#app .liebiao ul li:nth-child(5){
+	margin-left: 26px;
+
+	
+}
+
+#app .liebiao ul li:nth-child(6){
+	margin-left: 29px;
+	width: 100px;
+	text-align: center;
+	/*background: red;*/
+}
+#app .liebiao ul li:last-child{
+	margin-left: 55px;
+}
+#app .liebiao ul li{
+	overflow: hidden;
+}
+#app .liebiao ul li button:first-child{
+	float: left;
+
+}
+#app .liebiao ul li button{
+	width:30px;
+	height:30px;
+}
+#app .liebiao ul li input{
+	width: 50px;
+	height:26px;
+	text-align: center;
+	float: left;
+
+}
+#aq{
+	width: 389px;
+	height: 100px;
+	/*background: gray;*/
+	float: right;
+	
+}
+#aq span{
+	display: block;
+	float: left;
+	
+}
+#aq .weq{
+	margin-left: 55px;
+}
+#aq button{
+	width: 100px;
+	height: 80px;
+	background: red;
+	line-height: 80px;
+	text-align: center;
+	color: white;
+	margin-left: 39px;
+}
+.ghj{
+	display: none;
+}
+.rf{
+	background: deepskyblue;
+}
